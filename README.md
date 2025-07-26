@@ -5,7 +5,7 @@ I am currently pursuing my B.Tech in Information Technology at SSN College of En
 
 I'm always open to opportunities that allow me to learn, build, and contribute meaningfully.
 
-🛠️ Technical Skills
+🛠️ Technical Skills :
 Python
 NumPy,
 SQL
