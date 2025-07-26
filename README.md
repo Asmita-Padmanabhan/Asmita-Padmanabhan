@@ -30,10 +30,14 @@ Tech Stack: Flutter, Supabase, Twilio (WhatsApp) , Google Maps API
 Mobile app to streamline discovery of classical concerts worldwide, supporting dual user roles - artists and audience. Implemented personalized recommendations, sabha-hopping route planner, and social sharing templates. Analyzes user preferences and geolocation data to personalize discovery and optimize engagement strategies.
 
 Faculty Profile Management System
+
 Tech Stack : HTML, CSS, SQLite, Custom B+ Tree
+
 Web-based platform for centralized faculty data management, featuring a custom B+ Tree implementation. Enabled secure, role-based profile editing and streamlined administration.
 
 Carnatic Music Database
+
 Tech Stack: MySQL, Sequelize (Node.js), JavaScript
+
 Designed and implemented a normalized relational database to store intricate metadata on Carnatic songs, including ragams, talams, composers, and deities. Enabled complex associations (many-to-many, one-to-many) and dynamic song creation using Sequelize models.
 
